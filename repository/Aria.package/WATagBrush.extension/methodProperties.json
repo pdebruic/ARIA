@@ -1,9 +1,12 @@
 {
 	"instance" : {
 		"ariaHidden" : "PaulDeBruicker 2/3/2015 14:33",
-		"ariaControls:" : "PaulDeBruicker 5/19/2015 12:05",
 		"ariaLabel:" : "PaulDeBruicker 2/12/2015 12:22",
+		"ariaControls:" : "PaulDeBruicker 5/19/2015 12:05",
+		"ariaAtomic:" : "PaulDeBruicker 11/18/2016 16:13",
+		"ariaTextRelevance" : "PaulDeBruicker 11/18/2016 16:14",
 		"notAriaExpanded" : "PaulDeBruicker 5/19/2015 12:01",
+		"ariaLive:" : "PaulDeBruicker 11/18/2016 16:14",
 		"ariaExpanded:" : "PaulDeBruicker 5/19/2015 12:00"
 	},
 	"class" : { }
